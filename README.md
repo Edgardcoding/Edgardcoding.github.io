@@ -1,5 +1,4 @@
 # Edgardcoding.github.io
-Hallo gais 
 <!DOCTYPE html>
 <html>
 <title>W3.CSS Template</title>
